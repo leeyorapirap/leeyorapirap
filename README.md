@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @leeyorapirap
 - 👀 I’m interested in React, NextJS, PHP and Laravel
-- 🌱 I’m currently learning Git
 - 📫 How to reach me: pioleonardorapirap@gmail.com and leorapirap@gmail.com
 
 <!---
